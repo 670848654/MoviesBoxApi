@@ -1,12 +1,55 @@
-[
-    {"index": 0, "name": "拖布影视", "url": "https://www.rainvi.com"},
-    {"index": 1, "name": "嘶哩嘶哩", "url": "https://www.silisili.link"},
-    {"index": 2, "name": "樱花动漫", "url": "http://www.iyinghua.com"},
-    {"index": 4, "name": "LIBVIO", "url": "https://www.libvio.pw"},
-    {"index": 5, "name": "在线之家", "url": "https://www.zxzjhd.com"},
-    {"index": 6, "name": "555电影", "url": "https://www.55i5m2t9p6.shop"},
-    {"index": 10, "name": "修罗影视", "url": "https://xl01.com.de"},
-    {"index": 11, "name": "小宝影院", "url": "https://xiaoxintv.cc"},
-    {"index": 12, "name": "纽约影院", "url": "https://nycvod.com"},
-    {"index": 16, "name": "ギリギリ愛", "url": "https://anime.girigirilove.com"}
-]
+{
+    "date": "2025年7月31日",
+    "urls": [
+        {
+            "index": 0,
+            "name": "拖布影视",
+            "url": "https://www.rainvi.com"
+        },
+        {
+            "index": 1,
+            "name": "嘶哩嘶哩",
+            "url": "https://www.silisili.link"
+        },
+        {
+            "index": 2,
+            "name": "樱花动漫",
+            "url": "http://www.iyinghua.com"
+        },
+        {
+            "index": 4,
+            "name": "LIBVIO",
+            "url": "https://www.libvio.pw"
+        },
+        {
+            "index": 5,
+            "name": "在线之家",
+            "url": "https://www.zxzjhd.com"
+        },
+        {
+            "index": 6,
+            "name": "555电影",
+            "url": "https://www.55i5m2t9p6.shop"
+        },
+        {
+            "index": 10,
+            "name": "修罗影视",
+            "url": "https://xl01.com.de"
+        },
+        {
+            "index": 11,
+            "name": "小宝影院",
+            "url": "https://xiaoxintv.cc"
+        },
+        {
+            "index": 12,
+            "name": "纽约影院",
+            "url": "https://nycvod.com"
+        },
+        {
+            "index": 16,
+            "name": "ギリギリ愛",
+            "url": "https://anime.girigirilove.com"
+        }
+    ]
+}
